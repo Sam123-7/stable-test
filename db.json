@@ -1,0 +1,20 @@
+{
+  "indexes": [
+    {"id": 1, "name": "Beef"},
+    {"id": 2, "name": "Lamb"},
+    {"id": 3, "name": "Chicken"},
+    {"id": 4, "name": "Mushroom"},
+    {"id": 5, "name": "Tomato"},
+    {"id": 6, "name": "Onion"},
+    {"id": 7, "name": "Lettuce"},
+    {"id": 8, "name": "Orange"},
+    {"id": 9, "name": "Turmeric"},
+    {"id": 10, "name": "Coriander"}
+  ],
+  "products": [
+
+  ],
+  "companies": [],
+  "users": [],
+  "countries": []
+}
